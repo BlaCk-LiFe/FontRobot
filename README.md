@@ -2,6 +2,7 @@
 
 # CSharp Telegram bot
 
+>>>>>Writed by PHP Model :D
 
 >>>>Based on Telegram.dll
 
